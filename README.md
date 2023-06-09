@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">¡Hola! Soy Luisa Mendoza, Desarrolladora Full Stack JAVA 👋😎</h1>
  </div>
-<img src="//imgur.com/a/HbKAZap">
+<img src="https://i.imgur.com/HbKAZap.png">
 
 # REDES SOCIALES🧑🏻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luisa-fernanda-mendoza-valencia-lfmv10012003)
@@ -11,6 +11,6 @@
 
 
 # ESTADÍSTICAS📊
-![](https://github-readme-stats.vercel.app/api?username=LuisaMV0110&show_icons=true&theme=radical))
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaMV0110&layout=compact&show_icons=true&theme=radical))
+![](https://github-readme-stats.vercel.app/api?username=LuisaMV0110&show_icons=true&theme=blueberry))
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaMV0110&layout=compact&show_icons=true&theme=blueberry)
 
