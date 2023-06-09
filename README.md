@@ -11,6 +11,9 @@
 
 
 # ESTADÍSTICAS📊
-![](https://github-readme-stats.vercel.app/api?username=LuisaMV0110&show_icons=true&theme=blueberry))
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaMV0110&layout=compact&show_icons=true&theme=blueberry)
+![](https://github-readme-stats.vercel.app/api?username=LuisaMV0110&show_icons=true&theme=blueberry) 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaMV0110&layout=compact&show_icons=true&theme=blueberry)
+ 
+ ---
+![](https://visitcount.itsvg.in/api?id=LuisaMV0110&label=Profile%20Views&color=0&icon=4&pretty=true)
 
