@@ -1,4 +1,3 @@
-<div align="center">
 <h1 align="center">¡Hola! Soy Luisa Mendoza, Desarrolladora Full Stack JAVA 👋😎</h1>
   
 <h2 align="center">REDES SOCIALES</h2>
@@ -11,4 +10,4 @@
 <h2 align="center">ESTADÍSTICAS📊</h2>
 ![](https://github-readme-stats.vercel.app/api?username=LuisaMV0110&show_icons=true&theme=radical))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaMV0110&layout=compact&show_icons=true&theme=radical))
-</div>
+
