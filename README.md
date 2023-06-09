@@ -1,4 +1,4 @@
-<div class="center">
+<div align="center">
 <h1 align="center">¡Hola! Soy Luisa Mendoza, Desarrolladora Full Stack JAVA 👋😎</h1>
   
 <h2 align="center">REDES SOCIALES</h2>
