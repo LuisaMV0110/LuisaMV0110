@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">¡Hola! Soy Luisa Mendoza, Desarrolladora Full Stack JAVA 👋😎</h1>
+<h1 align="center">¡Hola! Soy Luisa Mendoza👋😎</h1>
  </div>
 <img src="https://i.imgur.com/HbKAZap.png">
 
