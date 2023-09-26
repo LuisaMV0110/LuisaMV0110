@@ -6,7 +6,7 @@
  ---
 
 # SOCIAL🧑🏻
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luisa-fernanda-mendoza-valencia-lfmv10012003) ![Visitas](https://visitcount.itsvg.in/api?id=LuisaMV0110&label=Profile%20Views&color=0&icon=4&pretty=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luisa-fernanda-mendoza-valencia-lfmv10012003) ![Visitas](https://komarev.com/ghpvc/?username=LuisaMV0110&color=blueviolet)
   
  ---
    
